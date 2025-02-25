@@ -4,7 +4,7 @@ import logo from "../assets/logo.ico"
 const Header = ({ darkMode, setDarkMode }) => {
   return (
     <header className="fixed w-full z-50">
-      <nav className="bg-pink-600 dark:bg-gray-800 p-4 rounded-full shadow-lg mx-4 mt-4">
+      <nav className="bg-pink-600  p-4 rounded-full shadow-lg mx-4 mt-4">
         <div className="container mx-auto flex justify-between items-center">
           <a href="#top" className="flex items-center">
             <img src={logo} alt="Kottada Sravanthi Logo" className="w-12 h-12" />

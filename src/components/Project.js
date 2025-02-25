@@ -28,7 +28,7 @@ const Projects = () => {
   ];
 
   return (
-    <section id="projects" className="py-12 bg-white dark:bg-gray-900">
+    <section id="projects" className="py-12 bg-white ">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-center text-pink-600 dark:text-pink-400">Designs That Pop</h2>
         <p className="text-lg text-gray-700 dark:text-gray-300 text-center mt-4 max-w-2xl mx-auto">
